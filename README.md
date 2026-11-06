@@ -79,8 +79,4 @@ terraform destroy
 ```
 Type `yes` when prompted.
 
-![terraform destroy: resources to be destroyed](images/15-terraform-destroy-plan.png)
-
-![terraform destroy: 8 destroyed](images/16-terraform-destroy-complete.png)
-
 > Remember to destroy the resources after the lab. A NAT Gateway or other resources added later can incur AWS charges.
